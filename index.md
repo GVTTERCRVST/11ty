@@ -1,10 +1,10 @@
 ---
 layout: template.html
-title: Eleventy Project
+title: Cats
 tags: page  
 
 ---
-# This is my {{ title }}!
+# Zach loves {{ title }}!
 Some good cat names:
 
 <ul>
