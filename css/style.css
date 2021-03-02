@@ -1,4 +1,11 @@
 body {
     font-family: sans-serif;
-    color: purple;
+    background-color: #5B5959;
+}
+header {
+    color:#3D61D5;
+}
+footer {
+    color:#3D61D5;
+
 }
