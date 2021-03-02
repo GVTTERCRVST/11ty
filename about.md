@@ -4,6 +4,6 @@ tags: page
 title: About 
 ---
 # {{ title }}
-This is a paragraph about this page. You can email <zelkie@confederationcollege.ca>.
+Hi my name is zach and i like cats and i enjoy hearing their names gwen is the best name but others are fine also.
 
-This is another paragraph woth nothing to say.
+I wish i could become a cat like an animorph and snuggle with other cats.
