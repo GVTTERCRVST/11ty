@@ -4,9 +4,13 @@ body {
 }
 header {
     color:#3D61D5;
+    background-color: black;
 }
 footer {
     color:#3D61D5;
     background-color: black;
 
+}
+.ul {
+    color: white;
 }
