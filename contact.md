@@ -4,4 +4,4 @@ tags: page
 title: Contact Me
 ---
 # {{ title }}
-Do not contact me. if you absolutely must, you can email me at <zelkie@confederation@college.ca>, but i will ignore it.
+Do not contact me. if you absolutely must, you can email me at <zelkie@confederation@college.ca>, but i will reply and make you feel bad about yourself.
