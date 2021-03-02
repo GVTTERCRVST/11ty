@@ -5,10 +5,10 @@ tags: page
 
 ---
 # This is my {{ title }}!
-Some Macs I have in my collection:
+Some good cat names:
 
 <ul>
-    {% for mac in macs -%}
-        <li>{{ mac }}</li>
+    {% for cat in cats -%}
+        <li>{{ cat }}</li>
     {% endfor -%}
 </ul>
